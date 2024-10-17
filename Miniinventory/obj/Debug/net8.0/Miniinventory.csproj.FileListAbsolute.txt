@@ -1,0 +1,14 @@
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\bin\Debug\net8.0\Miniinventory.exe
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\bin\Debug\net8.0\Miniinventory.deps.json
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\bin\Debug\net8.0\Miniinventory.runtimeconfig.json
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\bin\Debug\net8.0\Miniinventory.dll
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\bin\Debug\net8.0\Miniinventory.pdb
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\Miniinventory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\Miniinventory.AssemblyInfoInputs.cache
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\Miniinventory.AssemblyInfo.cs
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\Miniinventory.csproj.CoreCompileInputs.cache
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\Miniinventory.dll
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\refint\Miniinventory.dll
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\Miniinventory.pdb
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\Miniinventory.genruntimeconfig.cache
+c:\Users\Gunod.garig\Documents\prog2\Miniinventory\Miniinventory\obj\Debug\net8.0\ref\Miniinventory.dll
